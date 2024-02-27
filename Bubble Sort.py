@@ -87,7 +87,7 @@ for n in [1000, 2000, 3000]:
 # Tamaño de entrada: 3000, Tiempo de ejecución: 0.45195913314819336 segundos
 
 # %%
-
+![portada](https://github.com/JohannaRangel/RepasoAlgoritmos/blob/main/Bubble%20Sort.png)
 
 
 
