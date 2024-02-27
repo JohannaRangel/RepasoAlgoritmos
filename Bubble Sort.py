@@ -21,3 +21,5 @@ string_list = ["banana", "apple", "orange", "grape", "cherry"]
 bubble_sort_strings(string_list)
 print("Lista ordenada alfabéticamente:", string_list)
 # %%
+
+#Referencia: https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/python-bubble-sort/
