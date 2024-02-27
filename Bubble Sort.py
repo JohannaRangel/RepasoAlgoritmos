@@ -92,4 +92,6 @@ for n in [1000, 2000, 3000]:
 
 
 
-#Referencia: https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/python-bubble-sort/
+#Referencias: 
+# https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/python-bubble-sort/
+# https://chat.openai.com/
