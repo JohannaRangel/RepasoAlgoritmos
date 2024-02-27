@@ -96,3 +96,4 @@ for n in [1000, 2000, 3000]:
 #  https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/python-bubble-sort/
 #  https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-4.php
 #  https://chat.openai.com/
+#  https://gemini.google.com/app
