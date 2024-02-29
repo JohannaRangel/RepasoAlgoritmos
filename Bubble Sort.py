@@ -88,12 +88,25 @@ for n in [1000, 2000, 3000]:
 
 # %%
 
+'''
+Casos de uso:
+  Pequeños conjuntos de datos: Ideal para ordenar listas cortas, como una lista de tareas o nombres de estudiantes.
+  Enseñanza: Su simplicidad lo convierte en una herramienta ideal para principiantes que se inician en el mundo de los algoritmos de ordenamiento.
+  Comprender algoritmos más complejos: Funciona como base para comprender algoritmos más eficientes como Merge Sort o Quick Sort.
+'''
+
+# %%
+
+'''
+Referencias: 
+  https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/python-bubble-sort/
+  https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-4.php
+  https://chat.openai.com/
+  https://gemini.google.com/app
+'''
+
+# %%
 
 
 
 
-#Referencias: 
-#  https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/python-bubble-sort/
-#  https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-4.php
-#  https://chat.openai.com/
-#  https://gemini.google.com/app
